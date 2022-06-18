@@ -1,0 +1,234 @@
+body{
+	background-color: #2E2E2E;
+}
+.origen{
+	width: 1367px;
+	height: 768px;
+	background-color: yellow;
+	margin: 0 auto;
+}
+.cabezera{
+	width: 1367px;
+	height: 100px;
+	background-color: #FA58D0;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	background-color: #01DFD7;
+}
+.titulo{
+	width: 1167px;
+	height: 100px;
+	background-color: #1C1C1C;
+	float: right;
+	margin-top: -100px;
+	text-align: center;
+	line-height: 81px;
+	color: white;
+	font-size: 30px;
+	font-family: arial black; 
+}
+.img1{
+	width: 90px;
+	height: 90px;
+	float: right;
+	margin-top: 10px;
+}
+.img2{
+	width: 90px;
+	height: 90px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.img3{
+	width: 90px;
+	height: 75px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.img4{
+	width: 100px;
+	height: 80px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 40px;
+}
+.contenido{
+	width: 848px;
+	height: 648px;
+	background-color: none;
+	margin: left;
+}
+.texto{
+	width: 1167px;
+	height: 648px;
+	background-color: #0A2A29;
+	margin: 0 auto;
+	margin-left: 200px;
+	color: white;
+	overflow: scroll;
+	overflow-x: auto;
+}
+.ratchet{
+	color: white;
+	margin: 20px;
+	text-align: center;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+.menu{
+	width: 200px;
+	height: 648px;
+	background-color: #F7819F;
+	margin-top: -648px;
+}
+.enlace1{
+	width: 198px;
+	height: 79px;
+	background-color: #1C1C1C;
+	text-align: center;
+	color: white;
+	line-height: 79px;
+	font-family: verdana; 
+	border: 1px solid #424242;
+	font-weight: bold;
+	font-size: 13px;
+}
+.enlace1:hover{
+	background-color: #424242;
+}
+.enlace2{
+	width: 198px;
+	height: 79px;
+	background-color: #1C1C1C;;
+	text-align: center;
+	line-height: 79px;
+	border: 1px solid #424242;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 13px;
+}
+.enlace2:hover{
+	background-color: #424242;
+}
+.enlace3{
+	width: 198px;
+	height: 79px;
+	background-color: #1C1C1C;
+	text-align: center;
+	line-height: 79px;
+	border: 1px solid #424242;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 13px;
+}
+.enlace3:hover{
+	background-color: #424242;
+}
+.enlace4{
+	width: 198px;
+	height: 79px;
+	background-color: #1C1C1C;
+	text-align: center;
+	line-height: 79px;
+	border: 1px solid #424242;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 13px;
+}
+.enlace4:hover{
+	background-color: #424242;
+}
+.enlace5{
+	width: 198px;
+	height: 79px;
+	background-color: #1C1C1C;
+	text-align: center;
+	line-height: 79px;
+	border: 1px solid #424242;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 13px;
+}
+.enlace5:hover{
+	background-color: #424242;
+}
+.enlace6{
+	width: 198px;
+	height: 79px;
+	background-color: #1C1C1C;
+	text-align: center;
+	line-height: 79px;
+	border: 1px solid #424242;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 13px;
+}
+.enlace6:hover{
+	background-color: #424242;
+}
+.enlace7{
+	width: 198px;
+	height: 79px;
+	background-color: #1C1C1C;
+	text-align: center;
+	line-height: 79px;
+	border: 1px solid #424242;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 13px;
+}
+.enlace7:hover{
+	background-color: #424242;
+}
+.enlace8{
+	width: 198px;
+	height: 80px;
+	background-color: #1C1C1C;
+	text-align: center;
+	line-height: 83px;
+	border: 1px solid #424242;
+	color: white;
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 13px;
+	margin-top: -1px;
+}
+.enlace8:hover{
+	background-color: #424242;
+}
+.pie{
+	width: 1367px;
+	height: 21px;
+	background-color: #1C1C1C;
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+}
+a{
+	text-decoration: none;
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	background-color: #424242;
+}
+a:active{
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+	text-decoration: none;
+}

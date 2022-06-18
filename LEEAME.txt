@@ -1,0 +1,26 @@
+
+--------------------------------
+Informacion acerca de la pagina
+--------------------------------
+
+- Para abrirla ir la pagina principal ir a "index.html" boton derecho y abrir con chrome, mozilla u internet explorer.
+
+- La pagina funciona perfectamente en los 3 navegadores anteriores (yo te recomiendo el chrome)
+
+- Resolucion recomendada: 1920x1080, 1600x900 y 1280x1024
+
+- Los videos solo funcionan si uno esta conectado a internet.
+
+- Tambien se recomienda ser fan de los videojuegos jeje.
+
+--------------------------------
+Requisitos minimos
+--------------------------------
+
+- SO: Windows XP, Windows 7, Windows 8 y Windows 10
+- CPU: Intel Core u Amd
+- GPU: Tarjeta de video integrada
+- RAM: 512 MB
+
+
+
